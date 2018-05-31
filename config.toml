@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://datameanderer.netlify.com/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Data Meanderer"

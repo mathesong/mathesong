@@ -1,2 +1,2 @@
-## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+## Granville Matheson
+I'm a PhD student in neuroscience at the Karolinska Institute, Sweden.   This is my data blog for fun data science side projects, and rambles, and other miscellaneous bits and bobs that needed a home.
